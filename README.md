@@ -1,4 +1,4 @@
-![My GitHub Banner](https://raw.githubusercontent.com/EndrisSuofe/EndrisSuofe/main/banner.jpg)
+![My GitHub Banner](https://raw.githubusercontent.com/EndrisSuofe/EndrisSuofe/main/cover.png)
 
 # Hi there, I'm Endris Suofe! 👋
 
