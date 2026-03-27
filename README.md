@@ -1,45 +1,95 @@
-![My GitHub Banner](https://raw.githubusercontent.com/EndrisSuofe/EndrisSuofe/main/cover.png)
+# Endris Suofe
 
-# Hi there, I'm Endris Suofe! 👋
-
-I'm a **Field Operations Manager** with expertise in **Address Verification** and **Data Analytics**, passionate about driving operational excellence. I'm currently expanding my skill set into **DevOps Engineering**, focusing on technologies like **Docker**, **CI/CD**, and **Kubernetes**. My GitHub profile serves as a space to document this learning journey and showcase related projects.
+**Data & Operations Analyst | KYC Compliance | DevOps**
 
 ---
 
-## 🔧 Skills & Technologies
+## About Me
 
-### 🌟 Currently Learning
-![Linux](https://img.shields.io/badge/Linux-772953?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+I'm a data and operations analyst with **7+ years of experience** in KYC/verification compliance and financial services operations. I specialize in building scalable data systems, automating compliance workflows, and deriving actionable insights from complex operational datasets.
 
-### ✅ Previous Experience
-- **Address Verification**
-- **Data Analytics**
-- **Operational Management**
+Currently managing **300+ verification agents**, designing executive dashboards, and implementing CI/CD pipelines that reduce deployment friction and improve operational reliability. My work bridges the gap between compliance requirements, data-driven decision making, and technical automation.
+
+I help fintech and verification companies:
+- **Identify operational inefficiencies** through advanced data analysis
+- **Reduce compliance risks** with automated KYC workflows
+- **Optimize costs** by detecting and eliminating redundant processes
+- **Scale operations** with infrastructure automation and data infrastructure improvements
 
 ---
 
-## 🌱 My Learning Journey
+## What I Do
 
-I'm committed to continuous growth—learning by doing and building in public. This profile reflects both my small wins and long-term goals in DevOps.
+### Data Analysis & Automation
+- Build sophisticated SQL and Python-based analysis systems to uncover operational insights
+- Create automated data pipelines that process 35,000+ records with minimal manual intervention
+- Develop fuzzy matching and anomaly detection algorithms for data quality and fraud prevention
+- Conduct statistical analysis and create performance benchmarks
+
+### KYC/Compliance Operations
+- Designed verification workflows supporting 300+ agents across multiple compliance frameworks
+- Implemented quality control systems to identify and remediate compliance violations
+- Built data governance frameworks for sensitive customer information
+- Managed agent performance tracking and continuous improvement programs
+
+### Executive Reporting & Dashboards
+- Create Power BI dashboards that translate operational data into strategic insights
+- Build real-time KPIs for compliance metrics, agent performance, and financial leakage
+- Develop automated reporting systems that reduce manual compilation time by 80%+
+- Present findings to C-level executives for decision-making
+
+### DevOps & CI/CD
+- Implement GitHub Actions workflows for continuous integration and deployment
+- Manage AWS infrastructure (EC2, S3, RDS) for data processing at scale
+- Build automation that reduces deployment time and improves system reliability
+- Design monitoring and logging systems for operational visibility
 
 ---
 
-## 📫 Let's Connect
+## Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endrissuofe)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/drix_man)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/drix_man)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:endrissuofe@gmail.com)
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/SQL-Databases-blue?style=flat-square&logo=sqlite)
+![Excel](https://img.shields.io/badge/Excel-Advanced-green?style=flat-square&logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=flat-square&logo=powerbi)
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3%20%7C%20RDS-orange?style=flat-square&logo=amazon-aws)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/Linux-Administration-red?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/Git-Version%20Control-black?style=flat-square&logo=git)
 
 ---
 
-## 😄 Hobbies & Fun Facts
+## Featured Projects
 
-- 🏞️ I enjoy nature photography and traveling.
-- 🎧 I'm into Afrobeats and lo-fi music.
-- 📖 I like reading about ancient history and modern tech.
+### 💰 [Cost Leakage Analysis](https://github.com/endrissuofe/cost-leakage-analysis)
+Advanced financial anomaly detection system that identified **₦2M+ in potential cost leakage** across KYC operations. Uses fuzzy matching and behavioral analysis to pinpoint duplicate verifications and inefficient agent processes. Demonstrates production-grade data analysis at scale (35,000+ records).
 
+**Tech**: Python, Pandas, SQL, Matplotlib | **Impact**: ₦2M+ recoverable costs identified
+
+---
+
+### 🚀 [CI/CD AWS Pipeline](https://github.com/endrissuofe/ci-cd-aws-pipeline)
+Complete infrastructure-as-code solution implementing continuous integration and deployment on AWS. Automates data validation pipeline, replacing a 4–6 hour manual process with a scheduled automated run.
+
+**Tech**: GitHub Actions, AWS (EC2, S3), Linux, Git | **Impact**: 70% reduction in deployment time
+
+---
+
+### 📊 [Business Performance Dashboard](https://github.com/endrissuofe/business-performance-dashboard)
+Real-time executive dashboard aggregating KPIs across verification operations, compliance metrics, and agent performance. Provides 360-degree operational visibility and enables data-driven decision-making at scale.
+
+**Tech**: Power BI, SQL, Python, Excel | **Impact**: Automated reporting, 80% time savings
+
+---
+
+## Get In Touch
+
+- **LinkedIn**: [linkedin.com/in/endrissuofe](https://www.linkedin.com/in/endrissuofe/)
+- **Email**: [endrissuofe@gmail.com](mailto:endrissuofe@gmail.com)
+- **GitHub**: [github.com/endrissuofe](https://github.com/endrissuofe)
+
+---
+
+## Open to Opportunities
+
+I'm available for **freelance projects**, **consulting engagements**, and **full-time roles** in data operations, KYC compliance, and DevOps automation. If you're building or scaling verification operations, optimizing compliance workflows, or need advanced data analysis—let's talk.
